@@ -2,6 +2,8 @@
 
 A full-featured Framework7 Vue with Webpack setup with hot-reload & css extraction. Based on [Vue Webpack Boilerplate](https://github.com/vuejs-templates/webpack)
 
+### Framework7-3.X.X supported in this branch [https://github.com/itsyub/framework7-template-vue-webpack/tree/master-v3](https://github.com/itsyub/framework7-template-vue-webpack/tree/master-v3)
+
 ## Usage
 
 ### 1. Download this repository
