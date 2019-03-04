@@ -56,8 +56,8 @@ Just put the contents of `www` folder in your cordova's project root `www` folde
 ## One command install
 
 ```
-git clone https://github.com/framework7io/framework7-template-vue-webpack my-app &&
-cd my-app &&
+git clone --branch master-v3 https://github.com/itsyub/framework7-template-vue-webpack my-app-framework7-3.x.x &&
+cd my-app-framework7-3.x.x &&
 npm install &&
 npm run dev
 ```
