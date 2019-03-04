@@ -6,7 +6,7 @@ A full-featured Framework7 Vue with Webpack setup with hot-reload & css extracti
 
 ### 1. Download this repository
 ```
-git clone https://github.com/framework7io/framework7-template-vue-webpack my-app
+git clone --branch master-v3 https://github.com/itsyub/framework7-template-vue-webpack my-app-framework7-3.x.x
 ```
 
 Repository will be downloaded into `my-app/` folder
